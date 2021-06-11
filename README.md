@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dilan's github stats](https://github-readme-stats.vercel.app/api?username=DilanRanawaka&show_icons=true&hide=true)
+![Dilan's github stats](https://github-readme-stats.vercel.app/api?username=DilanRanawaka&show_icons=true&hide_border=true)
 ![Dilan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DilanRanawaka&layout=compact&langs_count=10)
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
